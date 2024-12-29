@@ -1,0 +1,21 @@
+.notFound {
+	text-align: center;
+	margin-top: 100px;
+	font-family: 'Arial', sans-serif;
+}
+
+.notFoundHeading {
+	font-size: 48px;
+	color: #dc3545;
+	margin-bottom: 20px;
+}
+
+.notFoundLink {
+	font-size: 20px;
+	text-decoration: none;
+	color: #007bff;
+}
+
+.notFoundLink:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "уауауу",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Второй пост",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Третий пост",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
